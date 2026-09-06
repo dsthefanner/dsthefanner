@@ -23,12 +23,11 @@
 
 Estou me preparando para entrar no mercado de trabalho e continuar desenvolvendo meus conhecimentos na área de tecnologia, especialmente em Back-End e Banco de Dados.
 
-## Contato
+## 📬 Contato
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/d%C3%A9bora-ribeiro-806a08430)
+* 👔 **LinkedIn:** [Acessar meu perfil](https://www.linkedin.com/in/d%C3%A9bora-ribeiro-806a08430)
+* 📧 **E-mail:** [d.stheffaner@gmail.com](mailto:d.stheffaner@gmail.com)
 
-
-E-mail: d.stheffaner@gmail.com
 
 
 ⭐ Obrigada por visitar meu perfil!
