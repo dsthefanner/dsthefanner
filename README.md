@@ -25,6 +25,9 @@ Estou me preparando para entrar no mercado de trabalho e continuar desenvolvendo
 
 ## Contato
 
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/d%C3%A9bora-ribeiro-806a08430)
+
+
 E-mail: d.stheffaner@gmail.com
 
 
