@@ -1,12 +1,12 @@
-## Sobre mim
+## 👋🏽Olá, eu sou a Débora Stheffane! 
 
-Atualmente cursando Técnico em Desenvolvimento de Sistemas.
+- 🎓 Atualmente cursando Técnico em Desenvolvimento de Sistemas.
 
-Estudando programação e fundamentos de desenvolvimento de sistemas.
+- 💻 Estudando programação e fundamentos de desenvolvimento de sistemas.
 
-Tenho interesse em Desenvolvimento Back-End e Banco de Dados.
+- 👩🏽‍💻 Tenho interesse em Desenvolvimento Back-End e Banco de Dados.
 
-Busco aprender novas tecnologias e melhorar minhas habilidades através de estudos e projetos.
+- 📚 Busco aprender novas tecnologias e melhorar minhas habilidades através de estudos e projetos.
 
 ## Tecnologias que estudo
 
